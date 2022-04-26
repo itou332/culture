@@ -22,3 +22,8 @@ The picture will also change depending on the specs of your PC or android. The p
 -<a href="https://itou332.github.io/Privacy-policy/">免責事項</a>
 -<a href="https://github.com/itou332">my github</a>
 -<a href="http://itou33good.starfree.jp/">itou</a>
+
+```mermaid
+graph LR;
+    id1((itou332 ))--->|Hello, how are you?<br>調子はどうですか?|user;
+```
