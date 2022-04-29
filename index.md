@@ -20724,7 +20724,7 @@ jDHGGGOMMcYYY4wxxhhjjDHGGGOMMcYYY4wxxhhjjDf4p3/6D7UEgdzgd4R7AAAAAElFTkSuQmCC
 
 <h3>2022.4/29</h3>
 
-<<svg
+<svg
    width="77.7875mm"
    height="169.862505mm"
    viewBox="0 0 155.575 339.72501"
