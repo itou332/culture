@@ -34,13 +34,12 @@ lang: ja_JP
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-REM6WSLP19"></script>
 <script>
-<link rel="stylesheet" href="style.css">
-<BODY,DIV,TABLE,THEAD,TBODY,TFOOT,TR,TH,TD,P { font-family:"Times New Roman"; font-size:x-small }
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
   gtag('config', 'G-YWDRL1ZXBE');
-</script>
+</script><link rel="stylesheet" href="style.css">
+<style>BODY,DIV,TABLE,THEAD,TBODY,TFOOT,TR,TH,TD,P { font-family:"Times New Roman"; font-size:x-small ;}svg,script {margin: 0 auto;  /* ボックス中央寄せ */}</style>
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <!-- Favicon head tag -->
