@@ -1,7 +1,6 @@
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
-　- jekyll_include_plugin
 
   title: web絵　第9項/My painting record, paragraph 9
   lang: ja_JP
