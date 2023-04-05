@@ -2033,6 +2033,24 @@ RK5CYII=
   </g>
 </svg>
 
+<details>
+    <summary>
+    voice_声
+　　</summary>
+    <figure>
+    <figcaption>日本語/jp</figcaption>
+    <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/04/202_4_22_jp.wav">
+    </audio>
+    <figcaption>en/英語</figcaption>
+      <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/04/202_4_22_en.wav">
+    </audio>
+</figure>
+</details>
+
 <br>
 
 <svg
@@ -9857,6 +9875,24 @@ jDHGGGOMMcYYY4wxxhhjjDHGGGOMMcYYY4wxxhhjjDf4p3/6D7UEgdzgd4R7AAAAAElFTkSuQmCC
        transform="rotate(-90,99.390786,142.51271)" />
   </g>
 </svg>
+
+<details>
+    <summary>
+    voice_声
+　　</summary>
+    <figure>
+    <figcaption>日本語/jp</figcaption>
+    <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/04/br.wav">
+    </audio>
+    <figcaption>en/英語</figcaption>
+      <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/04/br_en.wav">
+    </audio>
+</figure>
+</details>
 
 <h3>2022.4/26</h3>
 
@@ -20640,6 +20676,24 @@ jDHGGGOMMcYYY4wxxhhjjDHGGGOMMcYYY4wxxhhjjDf4p3/6D7UEgdzgd4R7AAAAAElFTkSuQmCC
     </g>
   </g>
 </svg>
+<details>
+    <summary>
+    voice_声
+　　</summary>
+    <figure>
+    <figcaption>日本語/jp</figcaption>
+    <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/04/2022_4_26_jp.wav">
+    </audio>
+    <figcaption>en/英語</figcaption>
+      <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/04/2022_4_26_en.wav">
+    </audio>
+</figure>
+</details>
+
 
 <h3>2022.4/28</h3>
 
@@ -20728,6 +20782,24 @@ jDHGGGOMMcYYY4wxxhhjjDHGGGOMMcYYY4wxxhhjjDf4p3/6D7UEgdzgd4R7AAAAAElFTkSuQmCC
        style="filter:url(#filter20)" />
   </g>
 </svg>
+
+<details>
+    <summary>
+    voice_声
+　　</summary>
+    <figure>
+    <figcaption>日本語/jp</figcaption>
+    <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/04/2022_4_28_jp.wav">
+    </audio>
+    <figcaption>en/英語</figcaption>
+      <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/04/2022_4_28_en.wav">
+    </audio>
+</figure>
+</details>
 
 <h3>2022.4/29</h3>
 
@@ -35032,6 +35104,23 @@ nqHflXsR3277N+V9rEMidUq2AAAAAElFTkSuQmCC
   </g>
 </svg>
 
+<details>
+    <summary>
+    voice_声
+　　</summary>
+    <figure>
+    <figcaption>日本語/jp</figcaption>
+    <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/04/2022_4_29_jp.wav">
+    </audio>
+    <figcaption>en/英語</figcaption>
+      <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/04/2022_4_29_en.wav">
+    </audio>
+</figure>
+</details>
 
 <h3>2022.5/1</h3>
 
@@ -35171,6 +35260,24 @@ nqHflXsR3277N+V9rEMidUq2AAAAAElFTkSuQmCC
        y="107.83884" />
   </g>
 </svg>
+
+<details>
+    <summary>
+    voice_声
+　　</summary>
+    <figure>
+    <figcaption>日本語/jp</figcaption>
+    <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/04/2022_5_1_jp.wav">
+    </audio>
+    <figcaption>en/英語</figcaption>
+      <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/04/2022_5_1_en.wav">
+    </audio>
+</figure>
+</details>
 
 <h3>2022.5/4</h3>
 
@@ -38932,6 +39039,23 @@ AABJRU5ErkJggg==
   </g>
 </svg>
 
+<details>
+    <summary>
+    voice_声
+　　</summary>
+    <figure>
+    <figcaption>日本語/jp</figcaption>
+    <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/04/2022_5_4_jp.wav">
+    </audio>
+    <figcaption>en/英語</figcaption>
+      <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/04/2022_5_4_en.wav">
+    </audio>
+</figure>
+</details>
 
 </body>
 <footer>
