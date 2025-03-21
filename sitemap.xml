@@ -4,6 +4,11 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
+    <loc>https://itou332.github.io/culture/</loc>
+    <lastmod>2025-3-21</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
     <loc>https://itou332.github.io/top_page/</loc>
     <lastmod>2024-12-24</lastmod>
     <priority>0.80</priority>
